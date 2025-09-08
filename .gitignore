@@ -35,8 +35,10 @@ pip-delete-this-directory.txt
 htmlcov/
 
 # Virtual environment
+.env
 .env/
 venv/
+.venv/
 env/
 
 # Django-specific files
